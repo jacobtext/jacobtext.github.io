@@ -1,0 +1,41 @@
+
+/* Body */
+body {
+	background: #E8E4E4;
+}
+/* Slider */
+.slider-img{
+	width: 100%;
+}
+/* Divider */
+.divider {
+	padding-bottom: 20px;
+}
+
+/* about row */
+.about-row {
+	margin-top: 4rem;
+}
+
+/* courses row */
+.course-row h2{
+    width: 100%;
+    text-align:  center;
+    padding-bottom:  10px;
+    font-weight: bold;
+
+}
+.col-md-4 ol{
+	list-style: none;
+	font-weight: bold;
+}
+
+/* Profiles row */
+.prof-col{
+	text-align: center;
+}
+
+/* Foooter */
+.back-to-top {
+	text-align: center;
+}
