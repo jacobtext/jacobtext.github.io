@@ -3,9 +3,9 @@
 body {
 	background: #E8E4E4;
 }
-/* Slider */
-.slider-img{
-	width: 100%;
+/* Jumbo */
+.jumbotron {
+
 }
 /* Divider */
 .divider {
@@ -16,24 +16,21 @@ body {
 .about-row {
 	margin-top: 4rem;
 }
+/* skills row */
+.skill-row {
 
-/* courses row */
-.course-row h2{
+}
+/* specialties row */
+.specialties-row h2{
     width: 100%;
     text-align:  center;
     padding-bottom:  10px;
     font-weight: bold;
 
 }
-.col-md-4 ol{
-	list-style: none;
-	font-weight: bold;
-}
-
-/* Profiles row */
-.prof-col{
-	text-align: center;
-	padding-bottom: 20px;
+.col-md-4 ul{
+	/*list-style: none;*/
+/*	font-weight: bold;*/
 }
 
 /* Foooter */
